@@ -1,0 +1,17 @@
+.radioClass {
+    color: #369;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.container{
+    position: relative;
+    top: 25px;
+    left: 69%;
+    transform: translate(-50%, 0%);
+    margin: 25px auto;
+}
+
+.radioClass, input[type='radio']{
+    padding: 5px;
+}
